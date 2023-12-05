@@ -8,6 +8,9 @@ Additionally the operator also provides a consistent interface regardless of the
 
 Main features:
 
+Dies ist eine Änderung
+
+
 * Provides Kubernetes Custom resources for deploying and managing AMQP Topics, Queues and read access to both
 * Abstracted, unified API regardless of target environment (cloud, on-premise)
 * Currently supported backends:
